@@ -2,7 +2,7 @@
 
 ![Scrape all the links](scrapememe.png)
 
-Finding urls for backfills on websites without sitemaps can be a pain. 
+Finding urls for backfills on websites without sitemaps can be a pain. 😣
 
 Scrape all the links on a webpage using Beautiful Soup!
 
@@ -18,14 +18,16 @@ Note: These scripts are fast! No need to make a cup of tea while they run.
 ## Installation
 
 Install the following libraries:
-    pip install requests
-    pip install html5lib
-    pip install bs4
-    
+```
+pip install requests
+pip install html5lib
+pip install bs4
+```
+
     
 ## Scenarios
 
-* Scenario 1: Extract **all** urls in <a> tags on a webpage
-* Scenario 2: Extract urls in <a> tags with a specific class on a webpage 
-* Scenario 3: Extract urls in <a> tags, in <div> tags with a specific class, on a webpage 
-* Scenario 4: Extract urls in <a> tags, in <div> tags with a specific class, on multiple webpages 
+* **Scenario 1:** Extract **all** urls in <a> tags on a webpage
+* **Scenario 2:** Extract urls in <a> tags with a specific class on a webpage 
+* **Scenario 3:** Extract urls in <a> tags, in <div> tags with a specific class, on a webpage 
+* **Scenario 4:** Extract urls in <a> tags, in <div> tags with a specific class, on multiple webpages 
