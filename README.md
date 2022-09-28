@@ -27,7 +27,7 @@ pip install bs4
     
 ## Scenarios
 
-* **Scenario 1:** Extract **all** urls in `<a>` tags on a webpage
-* **Scenario 2:** Extract urls in `<a>` tags with a specific class on a webpage 
-* **Scenario 3:** Extract urls in `<a>` tags, in `<div>` tags with a specific class, on a webpage 
-* **Scenario 4:** Extract urls in `<a>` tags, in `<div>` tags with a specific class, on multiple webpages 
+* [**Scenario 1:**](https://github.com/marisacassidy/zelda/blob/main/scenario1.py) Extract **all** urls in `<a>` tags on a webpage
+* [**Scenario 2:**](https://github.com/marisacassidy/zelda/blob/main/scenario2.py) Extract urls in `<a>` tags with a specific class on a webpage 
+* [**Scenario 3:**](https://github.com/marisacassidy/zelda/blob/main/scenario3.py) Extract urls in `<a>` tags, in `<div>` tags with a specific class, on a webpage 
+* [**Scenario 4:**](https://github.com/marisacassidy/zelda/blob/main/scenario4.py) Extract urls in `<a>` tags, in `<div>` tags with a specific class, on multiple webpages 
