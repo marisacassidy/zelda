@@ -15,5 +15,6 @@ soup = BeautifulSoup(r.content, 'html5lib')
 # print(soup.prettify())
 
 # Extract all urls in <a> tags with a specific class
+# Modify the a tag class in line 19
 for link in soup.find_all('a', class_="whatever"):
   print(link.get('href'))
